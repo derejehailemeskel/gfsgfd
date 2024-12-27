@@ -8,6 +8,6 @@ radius = float(input("Enter the radius of the circle: "))
 
 # Call the function
 area = circle_area(radius)
-
+#this is python print syntax
 print(f"The area of the circle with radius {radius} is: {area}")
 
